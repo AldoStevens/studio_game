@@ -4,4 +4,5 @@ class Die
   def initialize
     roll
   end
+
 end
